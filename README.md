@@ -1,5 +1,3 @@
-# Olá! Eu sou Victor e estou cursando bacharelado em Ciência da Computação
----
 
 ## Tecnologias
 
