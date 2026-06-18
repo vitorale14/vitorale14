@@ -1,4 +1,4 @@
-# Olá! Eu sou Victor e sou estudante de Ciência da Computação
+# Olá! Eu sou Victor e estou cursando bacharelado em Ciência da Computação
 ---
 
 ## Tecnologias
